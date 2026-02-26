@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>An Epic Journey of Faith - A Novel by Hadiza Bagudu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@400;600;800&family=Great+Vibes&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'serif-display': ['Cinzel', 'serif'],
+                        'serif-body': ['Amiri', 'serif'],
+                        'script': ['Great Vibes', 'cursive'],
+                        'sans': ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        'sand': {
+                            50: '#fdfbf7',
+                            100: '#f9f5ed',
+                            200: '#f2e8d5',
+                            300: '#e8d4b0',
+                            400: '#dbb885',
+                            500: '#d4a373',
+                            600: '#c78d5a',
+                            700: '#a67048',
+                            800: '#875a3e',
+                            900: '#6e4a35',
+                        },
+                        'azure': {
+                            50: '#f0f9ff',
+                            100: '#e0f2fe',
+                            200: '#bae6fd',
+                            300: '#7dd3fc',
+                            400: '#38bdf8',
+                            500: '#0ea5e9',
+                            600: '#0284c7',
+                            700: '#0369a1',
+                            800: '#075985',
+                            900: '#0c4a6e',
+                        },
+                        'gold': {
+                            50: '#fffbeb',
+                            100: '#fef3c7',
+                            200: '#fde68a',
+                            300: '#fcd34d',
+                            400: '#fbbf24',
+                            500: '#f59e0b',
+                            600: '#d97706',
+                            700: '#b45309',
+                            800: '#92400e',
+                            900: '#78350f',
+                        },
+                        'emerald': {
+                            50: '#ecfdf5',
+                            100: '#d1fae5',
+                            200: '#a7f3d0',
+                            300: '#6ee7b7',
+                            400: '#34d399',
+                            500: '#10b981',
+                            600: '#059669',
+                            700: '#047857',
+                            800: '#065f46',
+                            900: '#064e3b',
+                        }
+                    },
+                    animation: {
+                        'float': 'float 6s ease-in-out infinite',
+                        'float-delayed': 'float 6s ease-in-out 3s infinite',
+                        'spin-slow': 'spin 20s linear infinite',
+                        'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'fade-in': 'fadeIn 1s ease-out',
+                        'slide-up': 'slideUp 0.8s ease-out',
+                        'shimmer': 'shimmer 2s linear infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-20px)' },
+                        },
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        },
+                        slideUp: {
+                            '0%': { transform: 'translateY(30px)', opacity: '0' },
+                            '100%': { transform: 'translateY(0)', opacity: '1' },
+                        },
+                        shimmer: {
+                            '0%': { backgroundPosition: '-200% 0' },
+                            '100%': { backgroundPosition: '200% 0' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            background-color: #fdfbf7;
+            color: #1a1a1a;
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(212, 163, 115, 0.1) 0px, transparent 50%),
+                radial-gradient(at 100% 0%, rgba(14, 165, 233, 0.08) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(245, 158, 11, 0.08) 0px, transparent 50%),
+                radial-gradient(at 0% 100%, rgba(16, 185, 129, 0.08) 0px, transparent 50%);
+            background-attachment: fixed;
+        }
+        
+        /* Islamic Geometric Pattern */
+        .geometric-pattern {
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4a373' fill-opacity='0.08'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+        
+        /* Arabic-inspired border */
+        .arabesque-border {
+            background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox='0 0 100 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0,10 Q25,0 50,10 T100,10' fill='none' stroke='%23d4a373' stroke-width='1' opacity='0.4'/%3E%3C/svg%3E");
+            background-repeat: repeat-x;
+        }
+        
+        .text-shadow-soft {
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(212, 163, 115, 0.2);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+        }
+        
+        /* Chapter content styling */
+        .chapter-content p {
+            margin-bottom: 1.75em;
+            line-height: 1.9;
+            font-size: 1.25rem;
+            color: #1a1a1a;
+            text-align: justify;
+        }
+        
+        .chapter-content p:first-of-type::first-letter {
+            font-size: 4.5rem;
+            float: left;
+            line-height: 0.8;
+            margin-right: 0.15em;
+            margin-top: 0.1em;
+            font-family: 'Cinzel', serif;
+            color: #b45309;
+            font-weight: 600;
+        }
+        
+        .hover-lift {
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        .hover-lift:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+        }
+        
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #f9f5ed;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: #d4a373;
+            border-radius: 5px;
+            border: 2px solid #f9f5ed;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: #c78d5a;
+        }
+        
+        /* Kaaba-inspired cube */
+        .kaaba-cube {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+            position: relative;
+        }
+        
+        .kaaba-cube::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 40%;
+            height: 40%;
+            background: #d4a373;
+            border: 2px solid #fbbf24;
+        }
+        
+        /* Islamic star shape */
+        .islamic-star {
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+        }
+        
+        /* Gradient text */
+        .gradient-text {
+            background: linear-gradient(135deg, #b45309 0%, #d97706 50%, #b45309 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        /* Solid backgrounds for chapter modal */
+        .solid-bg {
+            background: #fdfbf7;
+        }
+        
+        .solid-header {
+            background: rgba(255, 255, 255, 0.98);
+            border-bottom: 1px solid rgba(212, 163, 115, 0.2);
+        }
+        
+        /* Prayer rug pattern */
+        .prayer-pattern {
+            background-image: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 10px,
+                rgba(212, 163, 115, 0.03) 10px,
+                rgba(212, 163, 115, 0.03) 20px
+            );
+        }
+    </style>
+</head>
+<body class="font-sans antialiased overflow-x-hidden geometric-pattern">
+
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 transition-all duration-500 bg-white/95 backdrop-blur-md" id="navbar">
+        <div class="border-b border-gold-200">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex justify-between items-center h-20">
+                    <div class="flex-shrink-0 cursor-pointer group" onclick="showHome()">
+                        <div class="flex items-center gap-3">
+                            <div class="w-10 h-10 bg-gold-600 islamic-star flex items-center justify-center">
+                                <span class="text-white font-serif-display text-xs font-bold">ح</span>
+                            </div>
+                            <div>
+                                <span class="font-serif-display text-xl text-gray-900 tracking-wider group-hover:text-gold-700 transition-colors block">AN EPIC JOURNEY</span>
+                                <span class="text-xs text-gold-600 tracking-[0.3em] uppercase font-sans">Of Faith</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-10 flex items-baseline space-x-8">
+                            <button onclick="showHome()" class="text-gray-800 hover:text-gold-700 px-3 py-2 rounded-md text-sm font-medium transition-colors relative group">
+                                Home
+                                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-gold-500 transition-all group-hover:w-full"></span>
+                            </button>
+                            <button onclick="scrollToChapters()" class="text-gray-800 hover:text-gold-700 px-3 py-2 rounded-md text-sm font-medium transition-colors relative group">
+                                Chapters
+                                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-gold-500 transition-all group-hover:w-full"></span>
+                            </button>
+                            <button onclick="scrollToCharacters()" class="text-gray-800 hover:text-gold-700 px-3 py-2 rounded-md text-sm font-medium transition-colors relative group">
+                                Characters
+                                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-gold-500 transition-all group-hover:w-full"></span>
+                            </button>
+                            <button onclick="scrollToAuthor()" class="text-gray-800 hover:text-gold-700 px-3 py-2 rounded-md text-sm font-medium transition-colors relative group">
+                                Author
+                                <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-gold-500 transition-all group-hover:w-full"></span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="md:hidden">
+                        <button onclick="toggleMobileMenu()" class="text-gray-800 hover:text-gold-700 p-2">
+                            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-b border-gold-200">
+            <div class="px-4 pt-2 pb-4 space-y-1">
+                <button onclick="showHome(); toggleMobileMenu()" class="text-gray-800 hover:text-gold-700 block px-3 py-3 rounded-md text-base font-medium w-full text-left border-b border-gold-100">Home</button>
+                <button onclick="scrollToChapters(); toggleMobileMenu()" class="text-gray-800 hover:text-gold-700 block px-3 py-3 rounded-md text-base font-medium w-full text-left border-b border-gold-100">Chapters</button>
+                <button onclick="scrollToCharacters(); toggleMobileMenu()" class="text-gray-800 hover:text-gold-700 block px-3 py-3 rounded-md text-base font-medium w-full text-left border-b border-gold-100">Characters</button>
+                <button onclick="scrollToAuthor(); toggleMobileMenu()" class="text-gray-800 hover:text-gold-700 block px-3 py-3 rounded-md text-base font-medium w-full text-left">Author</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main id="main-content">
+        
+        <!-- Hero Section -->
+        <section class="relative min-h-screen flex items-center justify-center overflow-hidden pt-20 bg-gradient-to-b from-sand-100 to-white">
+            <!-- Decorative Background Elements -->
+            <div class="absolute inset-0 z-0 prayer-pattern opacity-60"></div>
+            
+            <!-- Floating Geometric Elements -->
+            <div class="absolute top-32 left-10 w-64 h-64 opacity-10 animate-float">
+                <svg viewBox="0 0 200 200" class="w-full h-full text-gold-600 fill-current">
+                    <path d="M100,20 L180,100 L100,180 L20,100 Z M100,40 L160,100 L100,160 L40,100 Z" fill="none" stroke="currentColor" stroke-width="2"/>
+                    <circle cx="100" cy="100" r="30" fill="none" stroke="currentColor" stroke-width="1"/>
+                </svg>
+            </div>
+            
+            <div class="absolute bottom-20 right-10 w-48 h-48 opacity-10 animate-float-delayed">
+                <svg viewBox="0 0 200 200" class="w-full h-full text-azure-600 fill-current">
+                    <path d="M100,10 L120,80 L190,100 L120,120 L100,190 L80,120 L10,100 L80,80 Z" fill="none" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </div>
+
+            <!-- Decorative Islamic Arch -->
+            <div class="absolute top-0 left-1/2 transform -translate-x-1/2 w-full max-w-4xl h-32 opacity-10">
+                <svg viewBox="0 0 800 200" class="w-full h-full" preserveAspectRatio="none">
+                    <path d="M0,200 L0,100 Q200,0 400,100 Q600,200 800,100 L800,200 Z" fill="currentColor" class="text-gold-600"/>
+                </svg>
+            </div>
+
+            <div class="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
+                <div class="animate-fade-in">
+                    <!-- Decorative Line -->
+                    <div class="flex items-center justify-center gap-6 mb-8">
+                        <div class="h-px w-24 bg-gradient-to-r from-transparent to-gold-500"></div>
+                        <div class="w-4 h-4 rotate-45 border-2 border-gold-500 bg-gold-100"></div>
+                        <div class="h-px w-24 bg-gradient-to-l from-transparent to-gold-500"></div>
+                    </div>
+                    
+                    <p class="text-gold-700 text-sm tracking-[0.4em] uppercase mb-6 font-sans font-medium">A Novel By</p>
+                    
+                    <h1 class="font-serif-display text-5xl md:text-7xl lg:text-8xl font-bold text-gray-900 mb-2 tracking-tight text-shadow-soft">
+                        AN EPIC JOURNEY
+                    </h1>
+                    
+                    <div class="flex items-center justify-center gap-6 mb-8">
+                        <div class="h-px w-20 bg-gold-500"></div>
+                        <h2 class="font-script text-5xl md:text-7xl text-gold-600 italic">of Faith</h2>
+                        <div class="h-px w-20 bg-gold-500"></div>
+                    </div>
+                    
+                    <p class="font-serif-body text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto mb-12 italic leading-relaxed">
+                        "Nana Aisha was miserable. She found herself trapped in an airport bus with her parents, en route to board a plane to Madinah, en route to Makkah, for the holy pilgrimage of Hajj. It wasn't her decision, and she didn't want to go."
+                    </p>
+                    
+                    <!-- Book Cover Representation -->
+                    <div class="relative w-64 h-96 mx-auto mb-12 transform hover:scale-105 transition-transform duration-500 shadow-2xl">
+                        <div class="absolute inset-0 bg-gradient-to-br from-azure-600 to-azure-800 rounded-lg shadow-2xl flex flex-col items-center justify-center p-8 text-white">
+                            <div class="absolute top-4 right-4 w-8 h-8 border-2 border-gold-400 rotate-45"></div>
+                            <div class="absolute bottom-4 left-4 w-8 h-8 border-2 border-gold-400 rotate-45"></div>
+                            <div class="text-center">
+                                <p class="text-gold-300 text-xs tracking-widest mb-4">A NOVEL</p>
+                                <h3 class="font-serif-display text-3xl font-bold mb-2">AN EPIC</h3>
+                                <h3 class="font-serif-display text-3xl font-bold mb-2">JOURNEY</h3>
+                                <h3 class="font-script text-4xl text-gold-300 mb-6">of Faith</h3>
+                                <div class="w-16 h-px bg-gold-400 mx-auto mb-6"></div>
+                                <p class="font-serif-display text-sm tracking-wider">HADIZA BAGUDU</p>
+                            </div>
+                            <div class="absolute bottom-8 opacity-30">
+                                <svg class="w-16 h-16" viewBox="0 0 100 100" fill="currentColor">
+                                    <path d="M50,20 L80,50 L50,80 L20,50 Z M50,30 L70,50 L50,70 L30,50 Z"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <!-- Spine effect -->
+                        <div class="absolute left-0 top-0 bottom-0 w-4 bg-gradient-to-r from-black/40 to-transparent"></div>
+                    </div>
+                    
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                        <button onclick="scrollToChapters()" class="group relative px-10 py-4 bg-gold-600 hover:bg-gold-700 text-white font-serif-display tracking-wider rounded-full transition-all duration-300 hover:shadow-xl hover:shadow-gold-900/20 overflow-hidden">
+                            <span class="relative z-10 flex items-center gap-2">
+                                Begin Reading
+                                <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                                </svg>
+                            </span>
+                        </button>
+                        <button onclick="scrollToAuthor()" class="px-10 py-4 border-2 border-gold-500 text-gold-800 hover:text-white hover:bg-gold-600 hover:border-gold-600 font-serif-display tracking-wider rounded-full transition-all duration-300">
+                            About the Author
+                        </button>
+                    </div>
+                    
+                    <!-- Author Name -->
+                    <p class="mt-16 font-serif-display text-2xl text-gold-700 tracking-widest">HADIZA BAGUDU</p>
+                </div>
+            </div>
+
+            <!-- Bottom Gradient -->
+            <div class="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-white to-transparent"></div>
+        </section>
+
+        <!-- Synopsis Section -->
+        <section class="py-20 bg-white relative overflow-hidden">
+            <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-gold-400 via-gold-600 to-gold-400"></div>
+            <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                <div class="flex items-center justify-center gap-4 mb-6">
+                    <div class="h-px w-12 bg-gold-500"></div>
+                    <span class="text-gold-700 text-sm tracking-[0.3em] uppercase font-sans">The Story</span>
+                    <div class="h-px w-12 bg-gold-500"></div>
+                </div>
+                <h2 class="font-serif-display text-4xl md:text-5xl text-gray-900 mb-8">A Journey of Transformation</h2>
+                <p class="font-serif-body text-xl text-gray-700 leading-relaxed mb-8">
+                    Follow Nana Aisha, a reluctant pilgrim forced into the holy journey of Hajj by her wealthy father, Alhaji Kura. Trapped between her past addictions and an unwanted marriage, she boards a plane to Makkah with plans to escape. But fate has other designs.
+                </p>
+                <p class="font-serif-body text-xl text-gray-700 leading-relaxed">
+                    On this sacred journey, she encounters Munir, a devoted orphan struggling to save his Islamic school; Alhaji Suleiman, a reformed criminal seeking redemption; and Malam Tanko, an elderly farmer praying for his family. Their paths intertwine in a story of faith, forgiveness, and the miraculous power of divine intervention.
+                </p>
+            </div>
+        </section>
+
+        <!-- Characters Section -->
+        <section id="characters" class="py-24 relative bg-sand-50">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center mb-16 animate-slide-up">
+                    <div class="flex items-center justify-center gap-4 mb-4">
+                        <div class="h-px w-12 bg-gold-500"></div>
+                        <span class="text-gold-700 text-sm tracking-[0.3em] uppercase font-sans">Meet the Pilgrims</span>
+                        <div class="h-px w-12 bg-gold-500"></div>
+                    </div>
+                    <h2 class="font-serif-display text-5xl md:text-6xl text-gray-900 mb-6">Characters</h2>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Nana Aisha -->
+                    <div class="glass-panel rounded-2xl p-8 hover-lift relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-gold-100 rounded-bl-full opacity-50"></div>
+                        <div class="relative z-10">
+                            <div class="w-20 h-20 bg-gradient-to-br from-gold-400 to-gold-600 rounded-full flex items-center justify-center mb-6 mx-auto shadow-lg">
+                                <span class="font-serif-display text-2xl text-white">N</span>
+                            </div>
+                            <h3 class="font-serif-display text-2xl text-center text-gray-900 mb-2">Nana Aisha</h3>
+                            <p class="text-gold-600 text-center text-sm uppercase tracking-wider mb-4">The Reluctant Pilgrim</p>
+                            <p class="font-serif-body text-gray-700 text-center leading-relaxed">
+                                A spoiled socialite struggling with drug addiction, forced into Hajj by her father. Her journey becomes one of unexpected transformation and love.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Munir -->
+                    <div class="glass-panel rounded-2xl p-8 hover-lift relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-azure-100 rounded-bl-full opacity-50"></div>
+                        <div class="relative z-10">
+                            <div class="w-20 h-20 bg-gradient-to-br from-azure-500 to-azure-700 rounded-full flex items-center justify-center mb-6 mx-auto shadow-lg">
+                                <span class="font-serif-display text-2xl text-white">M</span>
+                            </div>
+                            <h3 class="font-serif-display text-2xl text-center text-gray-900 mb-2">Munir</h3>
+                            <p class="text-azure-600 text-center text-sm uppercase tracking-wider mb-4">The Devoted Guardian</p>
+                            <p class="font-serif-body text-gray-700 text-center leading-relaxed">
+                                An orphan and Hafiz who memorized the Quran, fighting to save his adoptive father's Islamic school from being sold by jealous brothers.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Alhaji Suleiman -->
+                    <div class="glass-panel rounded-2xl p-8 hover-lift relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-emerald-100 rounded-bl-full opacity-50"></div>
+                        <div class="relative z-10">
+                            <div class="w-20 h-20 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-full flex items-center justify-center mb-6 mx-auto shadow-lg">
+                                <span class="font-serif-display text-2xl text-white">S</span>
+                            </div>
+                            <h3 class="font-serif-display text-2xl text-center text-gray-900 mb-2">Alhaji Suleiman</h3>
+                            <p class="text-emerald-600 text-center text-sm uppercase tracking-wider mb-4">The Reformed Sinner</p>
+                            <p class="font-serif-body text-gray-700 text-center leading-relaxed">
+                                A former thief and fraudster who found redemption through honest labor, returning to Hajj to pray for forgiveness with his clean wealth.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Alhaji Kura -->
+                    <div class="glass-panel rounded-2xl p-8 hover-lift relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-purple-100 rounded-bl-full opacity-50"></div>
+                        <div class="relative z-10">
+                            <div class="w-20 h-20 bg-gradient-to-br from-purple-500 to-purple-700 rounded-full flex items-center justify-center mb-6 mx-auto shadow-lg">
+                                <span class="font-serif-display text-2xl text-white">K</span>
+                            </div>
+                            <h3 class="font-serif-display text-2xl text-center text-gray-900 mb-2">Alhaji Kura</h3>
+                            <p class="text-purple-600 text-center text-sm uppercase tracking-wider mb-4">The Wealthy Father</p>
+                            <p class="font-serif-body text-gray-700 text-center leading-relaxed">
+                                One of Kano's wealthiest men, a philanthropist desperate to save his daughter from herself, learning that faith cannot be bought.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Malam Tanko -->
+                    <div class="glass-panel rounded-2xl p-8 hover-lift relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-rose-100 rounded-bl-full opacity-50"></div>
+                        <div class="relative z-10">
+                            <div class="w-20 h-20 bg-gradient-to-br from-rose-400 to-rose-600 rounded-full flex items-center justify-center mb-6 mx-auto shadow-lg">
+                                <span class="font-serif-display text-2xl text-white">T</span>
+                            </div>
+                            <h3 class="font-serif-display text-2xl text-center text-gray-900 mb-2">Malam Tanko</h3>
+                            <p class="text-rose-600 text-center text-sm uppercase tracking-wider mb-4">The Elderly Pilgrim</p>
+                            <p class="font-serif-body text-gray-700 text-center leading-relaxed">
+                                A 73-year-old farmer who saved for 40 years to perform Hajj, praying for his pregnant granddaughter and sick grandson-in-law.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Hajiya Safiya -->
+                    <div class="glass-panel rounded-2xl p-8 hover-lift relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-orange-100 rounded-bl-full opacity-50"></div>
+                        <div class="relative z-10">
+                            <div class="w-20 h-20 bg-gradient-to-br from-orange-400 to-orange-600 rounded-full flex items-center justify-center mb-6 mx-auto shadow-lg">
+                                <span class="font-serif-display text-2xl text-white">S</span>
+                            </div>
+                            <h3 class="font-serif-display text-2xl text-center text-gray-900 mb-2">Hajiya Safiya</h3>
+                            <p class="text-orange-600 text-center text-sm uppercase tracking-wider mb-4">The Struggling Wife</p>
+                            <p class="font-serif-body text-gray-700 text-center leading-relaxed">
+                                A mother of three fighting to save her marriage from her husband's family interference, finding strength in the holy cities.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Chapters Grid -->
+        <section id="chapters" class="py-24 relative bg-white">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center mb-16 animate-slide-up">
+                    <div class="flex items-center justify-center gap-4 mb-4">
+                        <div class="h-px w-12 bg-gold-500"></div>
+                        <span class="text-gold-700 text-sm tracking-[0.3em] uppercase font-sans">The Journey</span>
+                        <div class="h-px w-12 bg-gold-500"></div>
+                    </div>
+                    <h2 class="font-serif-display text-5xl md:text-6xl text-gray-900 mb-6">Chapters</h2>
+                    <p class="mt-4 text-gray-600 font-serif-body text-xl italic">From Kano to Makkah - A transformative pilgrimage</p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="chapters-grid">
+                    <!-- Chapters populated by JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Quote Section -->
+        <section class="py-20 relative overflow-hidden bg-azure-900 text-white">
+            <div class="absolute inset-0 geometric-pattern opacity-10"></div>
+            <div class="absolute inset-0 bg-gradient-to-r from-azure-900/95 to-gold-900/95"></div>
+            <div class="max-w-4xl mx-auto px-4 text-center relative z-10">
+                <svg class="w-16 h-16 text-gold-400 mx-auto mb-6 opacity-80" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/>
+                </svg>
+                <blockquote class="font-serif-body text-3xl md:text-4xl italic leading-relaxed mb-6">
+                    "Your wealth or social status hold no significance here. In the eyes of Allah, everyone is equal, and the most honorable among people is the one who is most God-fearing."
+                </blockquote>
+                <p class="text-gold-300 font-serif-display text-lg">— Alhaji Babangida Bello Kura</p>
+                <div class="w-16 h-px bg-gold-400 mx-auto mt-6"></div>
+            </div>
+        </section>
+
+        <!-- Author Section -->
+        <section id="author" class="py-24 relative bg-sand-50">
+            <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="bg-white rounded-3xl p-8 md:p-16 hover-lift relative overflow-hidden shadow-xl shadow-black/5 border border-gold-200">
+                    <!-- Decorative corner -->
+                    <div class="absolute top-0 right-0 w-32 h-32 bg-gold-100"></div>
+                    <div class="absolute bottom-0 left-0 w-32 h-32 bg-azure-100"></div>
+                    
+                    <div class="grid md:grid-cols-5 gap-12 items-center relative z-10">
+                        <div class="md:col-span-2">
+                            <div class="aspect-[3/4] rounded-2xl bg-gradient-to-br from-gold-100 to-gold-200 flex items-center justify-center relative overflow-hidden shadow-inner">
+                                <div class="absolute inset-0 geometric-pattern opacity-30"></div>
+                                <div class="text-center">
+                                    <span class="font-serif-display text-8xl text-gold-700 block">HB</span>
+                                    <span class="font-script text-gold-800 text-3xl mt-2 block">Hadiza Bagudu</span>
+                                </div>
+                                <!-- Decorative frame -->
+                                <div class="absolute inset-4 border-2 border-white/50 rounded-xl"></div>
+                                <!-- Islamic geometric corner -->
+                                <div class="absolute top-4 left-4 w-8 h-8 border-t-2 border-l-2 border-gold-600"></div>
+                                <div class="absolute top-4 right-4 w-8 h-8 border-t-2 border-r-2 border-gold-600"></div>
+                                <div class="absolute bottom-4 left-4 w-8 h-8 border-b-2 border-l-2 border-gold-600"></div>
+                                <div class="absolute bottom-4 right-4 w-8 h-8 border-b-2 border-r-2 border-gold-600"></div>
+                            </div>
+                        </div>
+                        <div class="md:col-span-3">
+                            <div class="flex items-center gap-4 mb-6">
+                                <div class="h-px w-12 bg-gold-500"></div>
+                                <span class="text-gold-700 text-sm tracking-[0.2em] uppercase font-sans">About the Author</span>
+                            </div>
+                            
+                            <h2 class="font-serif-display text-4xl md:text-5xl text-gray-900 mb-6">Hadiza Bagudu</h2>
+                            
+                            <p class="font-serif-body text-lg text-gray-700 leading-relaxed mb-6">
+                                A talented author holding a degree in International Studies from Ahmadu Bello University, Zaria, and a Microsoft Certified Professional. Residing in Abuja with her husband and two children, Hadiza crafts stories that explore the intersection of faith, culture, and human transformation.
+                            </p>
+                            
+                            <p class="font-serif-body text-lg text-gray-700 leading-relaxed mb-8">
+                                "An Epic Journey of Faith" draws from the rich tapestry of Nigerian Muslim life, taking readers on a spiritual odyssey from the bustling streets of Kano to the sacred precincts of Makkah and Madinah.
+                            </p>
+                            
+                            <div class="flex flex-wrap gap-6">
+                                <a href="https://www.hadizabagudu.com" target="_blank" class="flex items-center gap-3 text-gray-700 hover:text-gold-600 transition-colors group">
+                                    <div class="w-10 h-10 rounded-full bg-gold-100 flex items-center justify-center group-hover:bg-gold-200 transition-colors">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/></svg>
+                                    </div>
+                                    <span class="font-medium">Website</span>
+                                </a>
+                                <a href="mailto:hadiza@hadizabagudu.com" class="flex items-center gap-3 text-gray-700 hover:text-gold-600 transition-colors group">
+                                    <div class="w-10 h-10 rounded-full bg-gold-100 flex items-center justify-center group-hover:bg-gold-200 transition-colors">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+                                    </div>
+                                    <span class="font-medium">Email</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Other Books -->
+                <div class="mt-20">
+                    <div class="text-center mb-12">
+                        <h3 class="font-serif-display text-3xl text-gray-900 mb-4">More Works by Hadiza</h3>
+                        <div class="w-24 h-px bg-gold-500 mx-auto"></div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+                        <div class="group cursor-pointer">
+                            <div class="aspect-[2/3] rounded-xl bg-amber-100 mb-4 flex items-center justify-center relative overflow-hidden shadow-md hover:shadow-lg transition-shadow border border-gold-200">
+                                <div class="absolute inset-0 geometric-pattern opacity-20"></div>
+                                <span class="font-serif-display text-amber-900 text-center px-4 text-lg font-semibold">Fantah</span>
+                            </div>
+                            <p class="text-sm text-gray-600 text-center font-sans">Ancient Fulani Kingdom</p>
+                        </div>
+                        
+                        <div class="group cursor-pointer">
+                            <div class="aspect-[2/3] rounded-xl bg-sand-200 mb-4 flex items-center justify-center relative overflow-hidden shadow-md ring-2 ring-gold-500 ring-offset-2">
+                                <div class="absolute inset-0 geometric-pattern opacity-20"></div>
+                                <span class="font-serif-display text-gray-900 text-center px-4 text-lg font-semibold">An Epic Journey</span>
+                                <span class="absolute top-2 right-2 w-3 h-3 bg-gold-500 rounded-full"></span>
+                            </div>
+                            <p class="text-sm text-gold-600 text-center font-sans font-medium">Currently Reading</p>
+                        </div>
+                        
+                        <div class="group cursor-pointer">
+                            <div class="aspect-[2/3] rounded-xl bg-purple-100 mb-4 flex items-center justify-center relative overflow-hidden shadow-md border border-purple-200">
+                                <div class="absolute inset-0 geometric-pattern opacity-20"></div>
+                                <span class="font-serif-display text-purple-900 text-center px-4 text-lg font-semibold">Melody</span>
+                            </div>
+                            <p class="text-sm text-gray-600 text-center font-sans">Music Superstar's Journey</p>
+                        </div>
+                        
+                        <div class="group cursor-pointer">
+                            <div class="aspect-[2/3] rounded-xl bg-rose-100 mb-4 flex items-center justify-center relative overflow-hidden shadow-md border border-rose-200">
+                                <div class="absolute inset-0 geometric-pattern opacity-20"></div>
+                                <span class="font-serif-display text-rose-900 text-center px-4 text-lg font-semibold">With Love</span>
+                            </div>
+                            <p class="text-sm text-gray-600 text-center font-sans">Poetic Collection</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="bg-gray-900 text-white py-16 relative overflow-hidden">
+            <div class="absolute inset-0 geometric-pattern opacity-5"></div>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
+                <div class="w-16 h-16 bg-gold-600 islamic-star mx-auto mb-6 flex items-center justify-center">
+                    <span class="font-serif-display text-2xl text-white">ح</span>
+                </div>
+                <p class="font-serif-display text-4xl text-white mb-4">AN EPIC JOURNEY</p>
+                <p class="font-script text-3xl text-gold-400 italic mb-6">of Faith</p>
+                <div class="w-16 h-px bg-gold-500 mx-auto mb-6"></div>
+                <p class="text-gray-400 text-sm mb-4">© 2023 Hadiza Bagudu. All rights reserved.</p>
+                <div class="flex justify-center gap-6 text-gray-400 text-sm">
+                    <span>ISBN: 978-978-791-926-2</span>
+                    <span>•</span>
+                    <span>Printed in Nigeria</span>
+                </div>
+            </div>
+        </footer>
+    </main>
+
+    <!-- Chapter Reader Modal -->
+    <div id="chapter-modal" class="fixed inset-0 z-[100] hidden">
+        <div class="absolute inset-0 bg-black/30" onclick="closeChapter()"></div>
+        
+        <div class="relative h-full overflow-y-auto bg-sand-50">
+            <div class="min-h-screen pb-20">
+                <!-- Chapter Header -->
+                <div class="sticky top-0 z-10 solid-header shadow-sm">
+                    <div class="max-w-4xl mx-auto px-4 py-4 flex justify-between items-center">
+                        <button onclick="closeChapter()" class="flex items-center gap-2 text-gray-800 hover:text-gold-700 transition-colors group">
+                            <svg class="w-5 h-5 transform group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+                            </svg>
+                            <span class="font-sans text-sm tracking-wider font-medium">BACK</span>
+                        </button>
+                        
+                        <div class="flex items-center gap-3">
+                            <button onclick="changeFontSize(-1)" class="w-10 h-10 rounded-full bg-gold-100 text-gray-800 hover:bg-gold-200 flex items-center justify-center transition-colors" title="Decrease font size">
+                                <span class="text-xs font-bold">A</span>
+                            </button>
+                            <button onclick="changeFontSize(1)" class="w-10 h-10 rounded-full bg-gold-100 text-gray-800 hover:bg-gold-200 flex items-center justify-center transition-colors" title="Increase font size">
+                                <span class="text-lg font-bold">A</span>
+                            </button>
+                            <button onclick="toggleBookmark()" id="bookmark-btn" class="w-10 h-10 rounded-full bg-gold-100 text-gray-800 hover:bg-gold-200 flex items-center justify-center transition-colors" title="Bookmark">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Chapter Content -->
+                <article class="max-w-3xl mx-auto px-4 sm:px-6 pt-12 pb-24 bg-sand-50">
+                    <!-- Chapter Hero -->
+                    <div class="mb-16 text-center">
+                        <div class="flex items-center justify-center gap-4 mb-6">
+                            <div class="h-px w-16 bg-gold-500"></div>
+                            <span class="text-gold-700 text-sm tracking-[0.3em] uppercase font-sans" id="chapter-number">Chapter One</span>
+                            <div class="h-px w-16 bg-gold-500"></div>
+                        </div>
+                        <h1 class="font-serif-display text-4xl md:text-5xl text-gray-900 mb-4 leading-tight" id="chapter-title">The Reluctant Pilgrim</h1>
+                        <p class="font-serif-body text-xl text-gold-600 italic" id="chapter-subtitle">Nana Aisha's journey begins against her will</p>
+                    </div>
+
+                    <div class="prose prose-lg max-w-none chapter-content font-serif-body" id="chapter-body">
+                        <!-- Content populated by JS -->
+                    </div>
+
+                    <!-- Chapter Navigation -->
+                    <div class="mt-20 pt-8 border-t border-gold-300 flex justify-between items-center">
+                        <button onclick="prevChapter()" id="prev-chapter-btn" class="flex items-center gap-3 text-gray-800 hover:text-gold-700 transition-colors disabled:opacity-30 disabled:cursor-not-allowed group">
+                            <div class="w-12 h-12 rounded-full border-2 border-gold-400 flex items-center justify-center group-hover:bg-gold-100 transition-colors">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+                                </svg>
+                            </div>
+                            <div class="text-left hidden sm:block">
+                                <span class="text-xs uppercase tracking-wider text-gold-600 block">Previous</span>
+                                <span class="font-serif-display text-sm">Chapter</span>
+                            </div>
+                        </button>
+                        
+                        <button onclick="likeChapter()" id="like-btn" class="flex items-center gap-2 px-6 py-3 rounded-full bg-gold-100 hover:bg-gold-200 transition-all group">
+                            <svg class="w-6 h-6 text-gold-600 group-hover:text-gold-700 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24" id="like-icon">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+                            </svg>
+                            <span class="font-serif-display text-gold-700" id="like-count">0</span>
+                        </button>
+
+                        <button onclick="nextChapter()" id="next-chapter-btn" class="flex items-center gap-3 text-gray-800 hover:text-gold-700 transition-colors disabled:opacity-30 disabled:cursor-not-allowed group">
+                            <div class="text-right hidden sm:block">
+                                <span class="text-xs uppercase tracking-wider text-gold-600 block">Next</span>
+                                <span class="font-serif-display text-sm">Chapter</span>
+                            </div>
+                            <div class="w-12 h-12 rounded-full border-2 border-gold-400 flex items-center justify-center group-hover:bg-gold-100 transition-colors">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </div>
+                        </button>
+                    </div>
+
+                    <!-- Comments Section -->
+                    <div class="mt-20 bg-white rounded-3xl p-8 md:p-12 shadow-lg shadow-black/5 border border-gold-200">
+                        <div class="flex items-center gap-4 mb-8">
+                            <div class="w-12 h-12 rounded-full bg-gold-100 flex items-center justify-center">
+                                <svg class="w-6 h-6 text-gold-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
+                                </svg>
+                            </div>
+                            <div>
+                                <h3 class="font-serif-display text-2xl text-gray-900">Reader Reflections</h3>
+                                <p class="text-gray-600 text-sm font-sans">Share your thoughts on this chapter</p>
+                            </div>
+                        </div>
+                        
+                        <div class="mb-8">
+                            <textarea id="comment-input" rows="4" class="w-full bg-sand-50 border border-gold-300 rounded-2xl p-5 text-gray-800 placeholder-gold-600/50 focus:outline-none focus:border-gold-500 focus:ring-2 focus:ring-gold-200 transition-all font-sans resize-none" placeholder="How did this chapter resonate with you?"></textarea>
+                            <div class="flex justify-end mt-4">
+                                <button onclick="postComment()" class="px-8 py-3 bg-gold-600 hover:bg-gold-700 text-white rounded-full transition-all font-sans text-sm tracking-wider font-medium shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
+                                    Post Comment
+                                </button>
+                            </div>
+                        </div>
+
+                        <div id="comments-list" class="space-y-6">
+                            <!-- Comments populated by JS -->
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Chapter Data based on the book
+        const chapters = [
+            {
+                number: "Chapter One",
+                title: "The Reluctant Pilgrim",
+                subtitle: "Nana Aisha's journey begins against her will",
+                excerpt: "Nana Aisha was miserable. She found herself trapped in an airport bus with her parents, en route to board a plane to Madinah, en route to Makkah, for the holy pilgrimage of Hajj. It wasn't her decision, and she didn't want to go...",
+                content: `<p>Nana Aisha was miserable. She found herself trapped in an airport bus with her parents, en route to board a plane to Madinah, en route to Makkah, for the holy pilgrimage of Hajj. It wasn't her decision, and she didn't want to go. Her father was forcing her, and to make matters worse, he planned to marry her off to his friend as soon as they returned. The journey to Hajj was meant to soften the blow, a suggestion from her mother. She had promised Nana Aisha that they would stop in Dubai on their way back to Nigeria to shop for the wedding, and she would have a budget of twenty million Naira to spend on whatever her heart desired. Even that didn't make her happy.</p>
+                
+                <p>She shifted nervously in her seat, scanning her surroundings, hoping to find an escape route. Her father shot her a stern look, and her mother nudged her gently to stay still. She sighed in frustration and rolled her eyes. She contemplated making her escape while they were lining up to board the plane. Her father would be in the men's line, and her mother would likely be occupied with identifying their luggage. It was then she planned to make her move. Zakari would be waiting for her in his car, where they would escape together. She had stolen five hundred thousand Naira from her father's room and some gold jewelry from her mother's, securely hidden away for their getaway. That should sustain them until they find employment. One thing was certain; they would never return. The thought brought a slight smile to her face.</p>
+                
+                <p>"Will you sit still?" Her mother snapped at her. Nana Aisha looked at her and pursed her lips in a sulk. The other pilgrims on the bus stared at her, and her father gave her a stern look, silently warning her. She knew it was her last chance to behave, so she sank back into her seat and adopted a meek demeanor, but her mind was racing with plots and schemes.</p>
+                
+                <p>The bus held about 15 people, all sponsored by her father, dressed in modest attire. The men wore Kaftans and caps, while the women donned Jalabiyas and khimars. Her father, Alhaji Babangida Bello Kura, one of Kano's wealthiest men, sat in the front. He was a highly successful clothes merchant, rice farmer, and exporter, and the CEO of Kura Cement Company and Kura Textiles. His net worth was estimated to be over seven billion Naira, and being one of his only three children, Nana Aisha stood to inherit at least one and a half billion someday.</p>`
+            },
+            {
+                number: "Chapter Two",
+                title: "The Guardian's Burden",
+                subtitle: "Munir's struggle to save his father's legacy",
+                excerpt: "Munir helped the old man on his left take off his seat belt. It had been thirty minutes into the flight, and he was still wearing his ihram...",
+                content: `<p>Munir helped the old man on his left take off his seat belt. "Thank you, my son," the man said, and Munir smiled at him. It had been thirty minutes into the flight, and he was still wearing his ihram.</p>
+                
+                <p>"If you want to go to the toilet, let me know, okay?" he told the old man.</p>
+                
+                <p>"Okay, my son."</p>
+                
+                <p>The old man reminded him of his adoptive father. He had similar kind eyes that were very comforting. He had spent the last thirty minutes helping him with everything, from putting on and removing his seat belt to telling him which food was best. He had never been on a plane, but at least he could read the instructions and understand what to do.</p>
+                
+                <p>He looked out of the window, and the ground seemed so far away. The buildings looked like little matchboxes, and the roads were like lines that zigzagged and twirled between the boxes. Soon, they were in the clouds, and it felt surreal.</p>
+                
+                <p>He sank back into his seat and still couldn't believe he was on that plane going to Saudi Arabia for Hajj. He never had, in his wildest dreams, imagined it. For one thing, he couldn't afford it. It was Allah's calling; otherwise, he wouldn't be here. He was expecting something else altogether, but got this instead. He tried to pawn the ticket but couldn't find a buyer.</p>
+                
+                <p>He was still mourning the death of his adoptive father, who had passed away a year and a half ago and left him in charge of his Islamiyah, which needed repair and upkeep. He had no money and had spent the past several months soliciting funds from various people, to no avail, until Alhaji Babangida Bello Kura extended a hand and sent him a free ticket for Hajj, all expenses paid in full.</p>`
+            },
+            {
+                number: "Chapter Three",
+                title: "The Elderly Hope",
+                subtitle: "Malam Tanko's forty-year dream",
+                excerpt: "Malam Tanko Saleh breathed a sigh of relief as he disembarked from the plane at the Arrival Terminal of Dubai International Airport...",
+                content: `<p>Malam Tanko Saleh breathed a sigh of relief as he disembarked from the plane at the Arrival Terminal of Dubai International Airport. It was their first stop before boarding a second Emirates plane to Madinah. All Emirates flights stopped at Dubai airport before proceeding to their destination, regardless of what that destination was. He had never been so afraid in his life as when he was on the plane. It was his first time flying, and the experience had terrified him beyond description. Thank God for the kind young man, Munir, who sat beside him; he was very helpful. If not for him, he wouldn't have known what to do.</p>
+                
+                <p>He stretched a little with some difficulty and flexed his hand, wincing in pain. Yep, his arthritis was acting up again.</p>
+                
+                <p>"Are you okay?" Munir asked him.</p>
+                
+                <p>"I am," he smiled. "Just adjusting to the outside temperature."</p>
+                
+                <p>"Let's go slowly, Baba," Munir assured him. "We have time. No need to rush." They allowed the other passengers to overtake them as they strolled toward the immigration desk.</p>
+                
+                <p>At 73, he was old and frail and shouldn't be making such a long and arduous journey alone. But he had no choice as there was no one. His wife had died a few months back, and he had already lost all his children. He had had four children, three boys, and a girl. Two of the boys and the girl died before they reached puberty. His son Giwa reached adulthood and even married but died three months later. His wife died in childbirth, leaving behind a baby girl Faizah whom he and his wife raised. Now Faizah is married and heavily pregnant, and her husband is sick. So, he had to make this journey to pray for both, and because of his advancing age and deteriorating health, it could also be his last chance to go.</p>`
+            },
+            {
+                number: "Chapter Four",
+                title: "The Reformed Man",
+                subtitle: "Alhaji Suleiman's path to redemption",
+                excerpt: "Alhaji Suleiman Yahaya was nostalgic as he walked into gate 36 of the Prophet's Mosque for Maghrib and Isha' prayers...",
+                content: `<p>Alhaji Suleiman Yahaya was nostalgic as he walked into gate 36 of the Prophet's Mosque (Peace and blessings of Allah be with him) for Maghrib and Isha' prayers, together with his roommates, who were just as amazed as he was. It was his second visit, and even though things were significantly different from his last visit, twenty-two years ago, it still felt the same. Everything was modern and sophisticated. There were a lot more buildings and skyscrapers in the city than before. And even the flight was more luxurious than the previous one, and the pilgrim service was more organized. Everything has changed, but the feeling remained the same.</p>
+                
+                <p>There must have been hundreds of people trooping into this gate, which is one of many, adding to the unbelievable number of people already in the mosque, and yet, it is not full, yet. The mosque had gotten a lot bigger and fancier from the last time he prayed in it, and the feeling of joy overwhelmed him as he got lost in the past.</p>
+                
+                <p>He had been just twenty-seven the last time he was here, but he was already rich, though he was ashamed to admit that the money was not clean. He was a thief and a fraudster. He did everything from petty theft to highway robbery to the ever-so-common 419 duping of people. He did everything to make money, and he made a lot of it. He was so good that aside from a few minor brushes with the law, he never went to jail or even got caught.</p>
+                
+                <p>He got wealthy through his trade and even married one of the most beautiful girls in his neighborhood. Her name was Surrayya. He had had a long-standing crush on her but was never in her league until he became rich, and then she fell for him. Her parents were thrilled to let her marry him and even defended him when people called him a thief.</p>`
+            },
+            {
+                number: "Chapter Five",
+                title: "The Struggling Mother",
+                subtitle: "Hajiya Safiya's test of patience",
+                excerpt: "Hajiya Safiya was exhausted. She had spent the whole journey trying to keep the children in line while juggling their various bags...",
+                content: `<p>Hajiya Safiya was exhausted. She had spent the whole journey trying to keep the children in line while juggling their various bags containing their food and several changes of clothing and diapers. She was very close to losing her mind. Her husband was no help at all. He had been the one who paid for the trip for all of them, and back then, it seemed like it would be fun. But now, he blamed her for bringing the children along, so he refused to help her with anything.</p>
+                
+                <p>It was supposed to be a wonderful family vacation for all of them. Yes, it was a religious obligation, but she wanted them also to incorporate much-needed family vacation time while they were at it. They had not had a vacation in ages and had drifted apart. Their marriage had been in trouble for a while, and she was afraid that they might break up or, even worse, he could take a second wife to punish her.</p>
+                
+                <p>Ten years ago, they were happy and in love. She had a small shop in Central Market, Kano, selling wrappers and veils. He was a junior staff at Kura Cement. Then he got promoted twice and became the assistant manager of the company. It took most of his time and also took him away from his family. But she was patient and loving. As compensation, Alhaji Kura appointed her as the primary seller of his textiles in the central market. That was also a time-consuming business, even though it was financially rewarding. Suddenly, both husband and wife were too busy for themselves and their children.</p>`
+            },
+            {
+                number: "Chapter Six",
+                title: "Awakening",
+                subtitle: "Nana Aisha finds unexpected peace",
+                excerpt: "After two days of sulking, Nana Aisha couldn't stand the hunger any longer. She decided to go out in search of food...",
+                content: `<p>After two days of sulking, Nana Aisha couldn't stand the hunger any longer. She decided to go out in search of food. Luckily, her roommates had both gone out and left her alone. She wanted to stay back and enjoy the alone time, but the hunger was too much. She read the brochure on the table and found the hotel's restaurant's food menu. But she was in the mood for a Nigerian meal, and the Hilton Towers Hotel where they were staying did not offer any Nigerian food. So, she asked the receptionist downstairs where she could get some and was directed to an African restaurant somewhere in town, where she could find several Nigerian restaurants. She thanked her and left.</p>
+                
+                <p>She had no money, but she had one of her Visa cards. Even her mother didn't know about it. It is linked to her secret account, the one she was going to use together with Zakari after they ran away.</p>
+                
+                <p>She bought a nice plate of Eba and Okro soup with beef, wolfed it down with a bottle of water and Maltina, and almost cried with relief afterward. She didn't know how hungry she was until she stared at the food plate. She then decided to go sightseeing and maybe window shopping. She didn't want to spend money, but if something caught her fancy, she might buy it.</p>
+                
+                <p>Later, she took a stroll through Al Rashid Mega Mall. The sheer size of it hits you as you enter. There were shops as far as the eyes can see, in every direction you turn, and every other shop carried a designer brand name and was filled with customers, mostly families, from all over the world.</p>`
+            }
+        ];
+
+        let currentChapter = 0;
+        let currentFontSize = 1.25;
+        let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+        let likes = JSON.parse(localStorage.getItem('likes') || '{}');
+        let comments = JSON.parse(localStorage.getItem('comments') || '{}');
+
+        // Initialize chapters grid
+        function initChapters() {
+            const grid = document.getElementById('chapters-grid');
+            chapters.forEach((chapter, index) => {
+                const card = document.createElement('div');
+                card.className = 'glass-panel rounded-2xl p-8 hover-lift cursor-pointer relative overflow-hidden group';
+                card.onclick = () => openChapter(index);
+                
+                card.innerHTML = `
+                    <div class="absolute top-0 right-0 w-24 h-24 bg-gold-100 rounded-bl-full opacity-30 group-hover:opacity-50 transition-opacity"></div>
+                    <div class="relative z-10">
+                        <div class="flex items-center gap-3 mb-4">
+                            <div class="w-12 h-12 rounded-full bg-gold-600 flex items-center justify-center text-white font-serif-display text-sm">
+                                ${index + 1}
+                            </div>
+                            <span class="text-gold-600 text-xs uppercase tracking-wider font-sans">${chapter.number}</span>
+                        </div>
+                        <h3 class="font-serif-display text-2xl text-gray-900 mb-2 group-hover:text-gold-700 transition-colors">${chapter.title}</h3>
+                        <p class="text-gold-600 text-sm italic mb-4 font-serif-body">${chapter.subtitle}</p>
+                        <p class="text-gray-600 text-sm leading-relaxed line-clamp-3 font-serif-body">${chapter.excerpt}</p>
+                        <div class="mt-6 flex items-center text-gold-600 text-sm font-medium group-hover:translate-x-2 transition-transform">
+                            Read Chapter
+                            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                            </svg>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Navigation functions
+        function showHome() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function scrollToChapters() {
+            document.getElementById('chapters').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function scrollToCharacters() {
+            document.getElementById('characters').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function scrollToAuthor() {
+            document.getElementById('author').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobile-menu');
+            menu.classList.toggle('hidden');
+        }
+
+        // Chapter modal functions
+        function openChapter(index) {
+            currentChapter = index;
+            const chapter = chapters[index];
+            
+            document.getElementById('chapter-number').textContent = chapter.number;
+            document.getElementById('chapter-title').textContent = chapter.title;
+            document.getElementById('chapter-subtitle').textContent = chapter.subtitle;
+            document.getElementById('chapter-body').innerHTML = chapter.content;
+            
+            updateNavigation();
+            updateBookmarkButton();
+            updateLikeButton();
+            loadComments();
+            
+            document.getElementById('chapter-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeChapter() {
+            document.getElementById('chapter-modal').classList.add('hidden');
+            document.body.style.overflow = '';
+        }
+
+        function prevChapter() {
+            if (currentChapter > 0) {
+                openChapter(currentChapter - 1);
+            }
+        }
+
+        function nextChapter() {
+            if (currentChapter < chapters.length - 1) {
+                openChapter(currentChapter + 1);
+            }
+        }
+
+        function updateNavigation() {
+            document.getElementById('prev-chapter-btn').disabled = currentChapter === 0;
+            document.getElementById('next-chapter-btn').disabled = currentChapter === chapters.length - 1;
+        }
+
+        // Font size controls
+        function changeFontSize(delta) {
+            currentFontSize = Math.max(1, Math.min(2, currentFontSize + delta * 0.125));
+            document.querySelectorAll('.chapter-content p').forEach(p => {
+                p.style.fontSize = currentFontSize + 'rem';
+            });
+        }
+
+        // Bookmark functionality
+        function toggleBookmark() {
+            const chapterId = chapters[currentChapter].number;
+            const index = bookmarks.indexOf(chapterId);
+            
+            if (index > -1) {
+                bookmarks.splice(index, 1);
+            } else {
+                bookmarks.push(chapterId);
+            }
+            
+            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+            updateBookmarkButton();
+        }
+
+        function updateBookmarkButton() {
+            const btn = document.getElementById('bookmark-btn');
+            const chapterId = chapters[currentChapter].number;
+            const isBookmarked = bookmarks.includes(chapterId);
+            
+            if (isBookmarked) {
+                btn.classList.add('bg-gold-600', 'text-white');
+                btn.classList.remove('bg-gold-100', 'text-gray-800');
+            } else {
+                btn.classList.remove('bg-gold-600', 'text-white');
+                btn.classList.add('bg-gold-100', 'text-gray-800');
+            }
+        }
+
+        // Like functionality
+        function likeChapter() {
+            const chapterId = chapters[currentChapter].number;
+            likes[chapterId] = (likes[chapterId] || 0) + 1;
+            localStorage.setItem('likes', JSON.stringify(likes));
+            updateLikeButton();
+            
+            // Animate heart
+            const icon = document.getElementById('like-icon');
+            icon.classList.add('heart-animation');
+            setTimeout(() => icon.classList.remove('heart-animation'), 1200);
+        }
+
+        function updateLikeButton() {
+            const chapterId = chapters[currentChapter].number;
+            const count = likes[chapterId] || 0;
+            document.getElementById('like-count').textContent = count;
+        }
+
+        // Comments functionality
+        function postComment() {
+            const input = document.getElementById('comment-input');
+            const text = input.value.trim();
+            
+            if (!text) return;
+            
+            const chapterId = chapters[currentChapter].number;
+            if (!comments[chapterId]) comments[chapterId] = [];
+            
+            comments[chapterId].push({
+                text: text,
+                author: 'Anonymous Reader',
+                date: new Date().toLocaleDateString()
+            });
+            
+            localStorage.setItem('comments', JSON.stringify(comments));
+            input.value = '';
+            loadComments();
+        }
+
+        function loadComments() {
+            const chapterId = chapters[currentChapter].number;
+            const list = document.getElementById('comments-list');
+            const chapterComments = comments[chapterId] || [];
+            
+            if (chapterComments.length === 0) {
+                list.innerHTML = '<p class="text-gray-500 text-center italic">No reflections yet. Be the first to share your thoughts.</p>';
+                return;
+            }
+            
+            list.innerHTML = chapterComments.map(comment => `
+                <div class="bg-sand-50 rounded-xl p-6 border border-gold-200">
+                    <div class="flex items-center gap-3 mb-3">
+                        <div class="w-10 h-10 rounded-full bg-gold-200 flex items-center justify-center">
+                            <span class="text-gold-800 font-serif-display text-sm">${comment.author.charAt(0)}</span>
+                        </div>
+                        <div>
+                            <p class="font-medium text-gray-900 text-sm">${comment.author}</p>
+                            <p class="text-xs text-gold-600">${comment.date}</p>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 font-serif-body leading-relaxed">${comment.text}</p>
+                </div>
+            `).join('');
+        }
+
+        // Navbar scroll effect
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('shadow-md');
+            } else {
+                navbar.classList.remove('shadow-md');
+            }
+        });
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            initChapters();
+        });
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (document.getElementById('chapter-modal').classList.contains('hidden')) return;
+            
+            if (e.key === 'ArrowLeft') prevChapter();
+            if (e.key === 'ArrowRight') nextChapter();
+            if (e.key === 'Escape') closeChapter();
+        });
+    </script>
+</body>
+</html>
