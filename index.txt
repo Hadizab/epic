@@ -2066,7 +2066,7 @@ number: "Chapter Thirteen",
                 title: "The Gift",
                 subtitle: "A gift with strings attached.",
                 excerpt: "Munir was in his office when Nura paid him a surprise visit....",
-                content: `<img src="https://cdn.pixabay.com/photo/2015/04/20/06/46/office-730681_1280.jpg">  <hr><br><br>
+                content: `<img src="https://i.pinimg.com/736x/e3/97/ba/e397ba72350cc4d945d06a2337034427.jpg">  <hr><br><br>
 
 <p>Munir was in his office when Nura paid him a surprise visit.</p>
 
@@ -2290,7 +2290,7 @@ number: "Chapter Thirteen",
     title: "The Darkest Hour",
     subtitle: "At the lowest point.",
     excerpt: "Zakari was fuming as he read the viral posts about Nana Aisha...",
-    content: `<img src="https://cdn.pixabay.com/photo/2024/02/21/23/59/ai-generated-8588818_1280.jpg" alt="Beautiful garden landscape" style="width:100%; max-width:600px; margin:0 auto 2rem auto; display:block; border-radius:8px;">
+    content: `<img src="https://cdn.pixabay.com/photo/2024/02/21/23/59/ai-generated-8588818_1280.jpg" alt="Depressed man" style="width:100%; max-width:600px; margin:0 auto 2rem auto; display:block; border-radius:8px;">
 
 <p>Zakari was fuming as he read the viral posts about Nana Aisha. Those pictures were his private property, saved on his phone. The only way that Alhaji Kabir could have obtained them—and he was sure that it was Alhaji Kabir who leaked them—was by having access to his phone. You see, his phone was in his pocket when he visited the man in his house, which means there was some sort of phone cloning device hidden where they sat. If the man had cloned his phone, then he must have been privy to his messages and calls, meaning he must have seen the text message he sent to Nana Aisha. That was a cruel betrayal. Not that he was surprised that Alhaji Kabir could be this evil, but he wasn't ready to accept it until now. No matter how much he tried to protect Nana Aisha, he always somehow managed to hurt her. And there was no way to reach her because, if Alhaji Kura was bluffing about hurting him if he ever came close to his daughter or home before, now, with the current scandal, he might just keep his promise. This was another blow that was too much to handle, and so, without completely recovering from his last shot, he took another one to numb the pain.</p>
 
@@ -2351,6 +2351,328 @@ number: "Chapter Thirteen",
 <p>When Munir got home, the security guard at his home handed him a letter, which he opened as soon as he sat down in his sitting room. It was an eviction notice from his landlord, telling him that his rent was about to expire in three months' time and that he couldn't renew his rent as the landlord had sold the house to someone who intended to bulldoze the house and build shops. That was the last straw for Munir on a horrible day, and he began to sob. At first, it was gentle, but it increased in intensity as he began to remember everything—from what happened that day, losing Nana Aisha, being framed by both the public and Alhaji Kura whom he respects, his toxic family, and the lack of love that he got from them, the memory of his sweet mother, the Sheik who loved him as a son, and his current condition. He felt so helpless and unloved that he cried from his heart until he fell asleep on the ground.</p>
 
 <p><strong><em>END OF CHAPTER FIFTEEN</em><strong></p>`
+            },
+{
+    number: "Chapter Sixteen",
+    title: "Turning Point",
+    subtitle: "A new hope.",
+    excerpt: "The next day, Nana Aisha went to visit Hajiya Safiya to talk about what...",
+    content: `<img src="https://i.pinimg.com/1200x/27/e8/ca/27e8caf863de3ac4c3afc49a9c73119b.jpg" alt="Car Crash" style="width:100%; max-width:600px; margin:0 auto 2rem auto; display:block; border-radius:8px;">
+
+<p>"The next day, Nana Aisha went to visit Hajiya Safiya to talk about what had happened. She looked tired because she had stayed up late talking with her mother and sister, both of whom agreed that she should never see Munir again. They said he was a conniving gold digger, the best they had ever seen. He was a good actor, and they really believed in his humble and good attitude. Alas, it was all an act. Now that the truth is out, there is no way to hide it. On the other hand, Hajiya Rakiya and her husband, Alhaji Qasim, saw things differently.</p>
+
+<p>“I don’t know, Nana. I had spent time with that man in Mecca and Madinah. He is genuinely a good person. It wasn’t an act,” Alhaji Qasim said.</p>
+
+<p>“Yes,” his wife agreed. “I think something is lost in translation. I know it is your father who told you, but he could be wrong. I am sorry.”</p>
+
+<p>“So, why didn’t he deny it? He couldn’t even look me in the eye and deny it,” Nana argued.</p>
+
+<p>“Perhaps he was shocked. I mean, put yourself in his situation. Maybe he didn’t expect things to turn out this way. And as for him not looking you in the eye, have you just met him? He is always like that. He is so extremely shy that it could get annoying sometimes. But that doesn’t make him a bad person,” Hajiya Rakiya said.</p>
+
+<p>“Besides, as a man, I can understand his need to protect the woman he loves. Perhaps he doesn’t want you to hate your father. He would rather lose you,” Alhaji Qasim added.</p>
+
+<p>Nana’s heart sank with the realization that her father could be lying. From the beginning, he never approved of Munir and saw him as nothing but a gold digger. He never even made an effort to know him, and now that the opportunity to get rid of him presented itself, he took it.” She began to cry again. Images of how sad Munir looked, the initial shock on his face, and how his head drooped afterward all make sense now. She didn’t even give him a chance to defend himself, and now she had lost the best human being that ever walked into her life.</p>
+
+<p>“Hey. It’s OK,” Hajiya Safiya sat next to her and hugged her.</p>
+
+<p>“What have I done?” Nana said. “He would never forgive me.”</p>
+
+<p>Munir got up early the next day to the sound of the Athan for Fajr prayer, with a massive headache. He had cried himself to sleep on the floor of his sitting room, which didn’t even have a rug, only a cold leather carpet. Alhamdulillah, he had prayed Isha in the Islamiya before he got fired, or whatever it was that the manager claimed it was. He was sure that he had just lost his job and his only source of income. And he was about to lose his home as well. What was he going to do now? He looked around at the sparse sitting room to see if he had anything of value to sell, but he didn’t own much. It was both a blessing and a curse. At least, moving would be easy, he thought. But moving to where? He didn’t have any savings as any extra he made, he redirected it to his charity. He felt so safe working in the Islamiyah and never thought that the rug would be pulled so suddenly from under him like that. And now, he was unsure of the next step. "He was tired. Every time things started to look up for him, they suddenly changed, and he found himself in a worse position than before. Life just seemed unfair to him like that. Although he didn't want to accept it, as he didn't want to seem ungrateful, he was also aware that Allah was testing him. If he could hold on and pass the test, there would be great rewards, both in this world and the hereafter. Something the great sheik taught him. He knew that being tested harshly didn't mean that Allah didn't love him; on the contrary, Allah tests the ones He loves the most. In fact, the Prophets of Allah were tested the most, and they never lost their faith. But at this point, he didn't know how much more he could take."</p>
+
+<p>As soon as the Athan stopped, he put his hands up and prayed to Allah – "Rabbi innee limaaa anzalta ilaiya min khairin faqeer"</p>
+
+<p>“My Lord, indeed I am, for whatever good You would send down to me, in need.”</p>
+<p>https://myislam.org/surah-qasas/</p>
+
+<p>It is a Du’a’ of desperation that Musa (Alaihi As-alaam) made in Madyan after he was forced to escape Egypt into the desert. He was homeless, jobless, hungry, and do not know anyone to help him. So, he turned to Allah and submitted himself completely to him. And yes, Allah solved his problems in ways he didn't even imagine. Then, he got up to go to the mosque. One thing about Munir is that his faith is unwavering, and he believes that Allah has a great plan for him, even if he couldn’t see it at that time.</p>
+
+<p>**********************************************</p>
+
+<p>Zakari woke up from his drug-induced sleep, still feeling hazy and a bit delirious. Finally, he found the courage to go and talk to Munir at the Islamiya. He needed to tell someone what he knew. Even though he didn't really want to talk to Munir, it was the only way to get the message across to Nana and warn her of Alhaji Kabir’s nefarious plan for her. He no longer cared if the man's spies had seen him. He probably saw the text that he sent to Nana, so let him do his worst.</p>
+
+<p>"I want to see Munir!" he demanded at the gate of the Islamiya, but the security guard blocked him with his body and refused to let him in.</p>
+
+<p>"Kai, Yaro. Go away!" the man snapped at him. "You are not welcome here. Why are you so stubborn?"</p>
+
+<p>"You don’t understand. I need to tell Munir something very important. It's a matter of life and death. He needs to know."</p>
+
+<p>"No. You will not get in!" They continued to struggle until more people came from the inside, and he was literally thrown out. He was warned that if he came again, they would beat him and then call the police. He begrudgingly entered his car and started driving towards Alhaji Kura’s house. But while he was driving, a cement truck came seemingly out of nowhere and hit his car hard, sending him into a spin. But that wasn't all. He could swear he saw through the haze in his head that the truck was trying to push him off the bridge. It was able to pin him to the railings before reversing and driving away. He then threw up all over the car and passed out.</p>
+
+<p>Munir had come to terms with what had happened. In fact, after praying to Allah, the burden seemed to have been lifted from his shoulders. He was less worried about what would happen to him from now on. He had left everything to Allah and he knew Allah would take care of him. After showering and eating, he decided to return the books he had borrowed from the Islamiyah's library. He couldn’t keep them now; that would be wrong. So, he boarded a bus to go. On his way, he saw a massive crowd blocking the road. There had been a serious accident, they were told. "Great," he thought. "We are going to be stuck here for hours." The passengers of the bus, out of curiosity, got down to go and see what was happening. He reluctantly got down to go and see as well. But as soon as he got there, his heart started racing. He recognized the car immediately. He ran toward it, pushing people aside, and looked inside. He was right; it was Zakari, passed out on the steering wheel.</p>
+
+<p>*****************************</p>
+
+<p>The bus Munir was on had to stop suddenly as there was a large crowd in the way. "Inna Lillahi wa inna illaihhirrajiun. There must have been an accident," Munir thought, silently praying for the victims. The passengers on the bus got down to go and see what was happening. At first, Munir didn't want to, as he didn't particularly like seeing gory scenes. However, after a few minutes, he decided to join them and immediately recognized the crushed vehicle. He ran toward it and looked inside, silently praying and hoping that it wasn't who he was thinking. But, it was.
+"Inna Lillahi Wa inna Illaihirrajiun!" He kept saying as he struggled to open the door. He was worried that Zakari had already died. People cautioned him to wait for the police, but he refused to listen, yelling to them that it was his friend. He placed his hand on Zakari’s neck and felt a weak pulse. He sighed. “Alhamdulillah.” Loudly. "He is alive!" he yelled. "I need to get him to the hospital fast. Can someone please help me get him to a hospital?" He asked the crowd, but no one moved. Everyone was scared of getting involved because whoever moved him would be in great trouble if the victim died. The police would arrest them, regardless of whether they were trying to help or not. It was best to just be a spectator and do nothing until the police came to take him away. "Please," Munir pleaded again and again. "He is still alive and could die. He needs to go to the hospital now." He begged the bus driver, who refused. He begged and begged until a lady gave in and decided to take them to the hospital in her car. Of course, people tried to discourage her, but she refused to listen. She took them to The Butterfly Private Hospital in BUK Road, one of the best private hospitals in Kano. But she insisted on not staying to protect herself. Munir understood and thanked her for her kindness.</p>
+
+<p>At the emergency ward, another problem arose. They insisted on a deposit before they could attend to the patient. It was a hefty sum that Munir couldn’t afford. He tried to tell them that this was a rich man’s son, and money was not a problem. Let them attend to him first. But the hospital refused, citing that they had been burnt several times before, so they needed the deposit before using resources on him.</p>
+
+<p>Frustrated, Munir checked Zakari’s pockets to see if he had money or anything of value in there but found his phone instead. Alhamdulillah, it wasn’t password-protected. He then checked his contacts until he found a contact titled "Big Boss," whom he suspected must be Zakari’s father. He called, and the man picked up after the third time.</p>
+
+<p>"What is it, Zakari? I am in a meeting."</p>
+
+<p>"Hello. This is not Zakari…. This is Munir," Munir spoke nervously.</p>
+
+<p>"What are you doing with his phone, then?" The man roared on the other side.</p>
+
+<p>"I am sorry… I… he is in the hospital."</p>
+
+<p>"What!"</p>
+
+<p>"There was an accident, and we are at the emergency ward, but they will not attend to him unless we pay a deposit. Can you please rush to the Butterfly Hospital and pay so that they can treat him? He is badly wounded, and I am afraid he won’t last long. Please hurry."</p>
+
+<p>"What. Who is the person who refused to treat my son? Give me the manager!"</p>
+
+<p>Munir handed the phone to the secretary who got an earful before running to give the doctor the phone to talk to him. “Why wouldn’t you people treat my son? Do you know who I am? This is Alhaji Attahitu Chiromawa. My son is dying, and you wouldn’t treat him because of money. Are you kidding me? How much is your hospital worth? Let me buy it now. If my son dies because of your negligence, I will destroy you all and burn the hospital to the ground.”</p>
+
+<p>“I am sorry, Alhaji. We didn’t know it was your son,” the doctor was visibly shaking.</p>
+
+<p>“Oh. You didn’t know it was my son. So, if it was someone else’s son, you would allow them to die. What kind of hospital is this?”</p>
+
+<p>“I apologize, Sir; we will get right on it.” The doctor dropped the phone and ordered them to wheel Zakari into the theater. Munir sighed with relief and said Alhamdulillah.</p>
+
+<p>Alhaji Attahiru was still in shock from the phone call he had just received. He couldn’t believe what had just happened and how close he came to losing his son. And even worse, because of money. He was telling the truth that he was in a meeting, but it was in Kaduna, and no matter how fast he drove, it would take him at least two hours to get to the hospital in Kano. And he was there with his personal assistant as well, so he couldn’t even send him to stand in for him. He didn’t want to call his wife, as that would throw her into a panic. So, he called the secretary in his office and tasked her to go to the hospital and pay whatever bill they asked for, and also warned her not to tell his wives. He then immediately set off for Kano.</p>
+
+<p><strong><em>END OF CHAPTER SIXTEEN</em><strong></p>`
+            },
+{
+    number: "Chapter Seventeen",
+    title: "A New Leaf",
+    subtitle: "Becoming Whole again.",
+    excerpt: "It took over three hours for Alhaji Attahiru to arrive at the Butterfly Hospital in Kano to see...",
+    content: `<img src="https://cdn.pixabay.com/photo/2025/06/13/06/40/whistling-wind-9657436_1280.jpg" alt="Green Leaf" style="width:100%; max-width:600px; margin:0 auto 2rem auto; display:block; border-radius:8px;">
+
+<p>It took over three hours for Alhaji Attahiru to arrive at the Butterfly Hospital in Kano to see his son, mainly due to the bad roads and traffic congestion. By the time he arrived, the boy was out of the theatre. He had fractures in both his arm and leg and a mild concussion, all of which had been taken care of, but he was still asleep, under the effects of anesthesia. Munir was with him, and Alhaji Attahiru expressed his gratitude.</p>
+
+<p>"It's nothing, Alhaji. I hope he gets better."</p>
+
+<p>"Amin, my friend. I didn't know what I would have done if my son had died. You are a Godsent, and your intervention was timely," the Alhaji said, first glaring at the now meek doctors, then smiling at Munir.</p>
+
+<p>"Alhamdulillah, I got there on time, Alhaji."</p>
+
+<p>"If you don’t mind, can you tell me how you know my son?" Alhaji Attahiru asked.</p>
+
+<p>"Well…" Munir stammered. He didn’t want to bring Nana Aisha into this, but he also didn’t want to lie. "I just know him from around," he spoke. Alhaji Attahiru looked at him, wondering if he was also involved in drug use. He didn't look like it. If anything, he looked like a religious person.</p>
+
+<p>"Well, thank you all the same. My son is alive because of your kindness and quick thinking."</p>
+
+<p>Before Munir could answer, Zakari opened his eyes and called Munir’s name.</p>
+
+<p>"Son," Alhaji Attahiru exclaimed and ran to his son. "Alhamdulillah, you are alright. I was so worried about you."</p>
+
+<p>"I am fine, Baba," Zakari said weakly. Then he looked at Munir and said, "Please. You have to warn Nana. She is in danger. Alhaji Kabiru has plans for her, and I am afraid they are bad."</p>
+
+<p>Alhaji Attahiru looked from his son to Munir and understood their connection immediately. Zakari decided not to tell his father about the mysterious truck for fear that Alhaji Attahiru would lose his mind and go after Alhaji Kabir. He wanted his father to protect Nana instead.</p>
+
+<p>"I am afraid it's already too late. There were some internet articles with some horrible pictures going around, damaging both our names... And Nana and I have broken up. I will not be a problem to you anymore."</p>
+
+<p>"No, Munir. I have gained some clarity now. I believe you are the best person for Nana. I am not good for her. We encourage each other to do bad. You are the positive influence that she needs." Munir looked down, shy. "But still, you need to make sure she is okay. He is planning to hurt her for refusing him."</p>
+
+<p>"How do you know that?" his father asked him, and Zakari proceeded to tell him of their encounter. "What? I cannot believe this. That man is just pure evil. I need to warn Alhaji Kura, but after our last encounter, I don’t think he will speak to me."</p>
+
+<p>"Nura!" Munir exclaimed. And both Alhaji Attahiru and Zakari said, "Huh?"</p>
+
+<p>"Nana’s brother Nura. We can talk to him. He is kind and will be more willing to listen. I don’t know why I didn’t think of him this whole time. Although, I am not sure he would want to talk to me." Munir said and then told them about the money issue.</p>
+
+<p>"But he will talk to me," Alhaji Attahiru said, and then after consoling his son and thanking Munir again, he left for Nura’s office.</p>
+
+<p>After his father left, Zakari had a long conversation with Munir, apologizing to him for everything.</p>
+
+<p>"I hated you for so long, thinking you were the problem. But now, I understand that I was the problem in this story. It was my bad habits that nearly destroyed Nana, and you are the solution. I give you my blessing to marry her and protect her."</p>
+
+<p>"I am not sure that Alhaji Kura will allow me. He hates me."</p>
+
+<p>"Don’t worry about that. I am sure that after everything is sorted out and the truth about Alhaji Kabir comes out, he will see you in a different light."</p>
+
+<p>"I hope so. What about you? Will you be alright?" Munir asked him.</p>
+
+<p>"I am going to check myself into a rehabilitation center. I have a problem, and I am willing to admit it now. I am not strong enough to fight it on my own, as every time I tried, I fail. Perhaps, this time, I will get the help I need, for sure."</p>
+
+<p>"That is very good," Munir said. "I am proud of you. May Allah make it easy for you."</p>
+
+<p>"Amin," Zakari said and smiled, knowing that this is the beginning of a beautiful friendship.</p>
+
+<p>****************************************</p>
+
+<p>Nura had consoled his sister for the misfortune that had happened to her. But unlike Alhaji Kura, he did not hate nor blame the whole thing on Munir. In fact, he worried about how Munir was going to react to the pictures as he wanted more than anything for Munir to marry Nana Aisha. He had spent time with him in Mecca and Madinah and had seen him to be of good moral character, kind, and wise. The kind of husband that Nana Aisha would need. And the evidence of his good influence on her is apparent. So, he decided to go to the Islamiyah to talk with him. On getting there, he was informed of Munir being fired. So, he asked for his home address and went there. He met Munir's brother - Lawal waiting for him as well. He had seen the articles and came to check up on him to make sure he was alright. He informed him of everything, and Lawal told him of Munir's upright character, making Nura love him even more.</p>
+
+<p>As they were talking, Nura received a call from Alhaji Attahiru, informing him that he was waiting for him in his office to talk about a matter of life and death issue concerning Nana Aisha. He rushed back to his office, together with his brother. Alhaji Attahiru told him everything that his son told him. So, they all went to see Alhaji Kura.</p>
+
+<p>***********************************</p>
+
+
+<p>Alhaji Kura had a sombre look on his face. He was resisting what he heard. Not that he didn’t believe them. No, far from that. In fact, his insides were doing backflips from fear for his daughter’s safety after Alhaji Attahiru, Nura, and Lawal told him about Alhaji Kabir’s intention for her. He just didn’t want to accept anything that came from Zakari or his father. He never trusted Alhaji Kabir. Yes, the man was his friend and business partner, and they had known each other for a long time. There was something about the man that made him uneasy. The man was vicious, he was the kind of guy that would do anything to get what he wanted. He was ruthless in his business affairs. He didn’t care who he hurt or how immoral his actions were as long as they gave him the results he desired. But Alhaji Kura always gave him the benefit of the doubt, assuming that his ruthlessness was only in business affairs and that in other areas, he was a decent man. But at that moment, he is burdened with the realization of how wrong he is, and it could cost him his daughter’s safety.</p>
+
+<p>Nevertheless, he still resisted Alhaji Attahiru’s warning because he didn’t like Zakari. Zakari has destroyed his daughter’s life and now that she has managed to turn her life around, he didn’t want to bring the boy back into her life.</p>
+
+<p>“You know, Alhaji Attahiru, it's not that I don’t believe you. But this story is coming from Zakari. That boy is a drug addict and is not well in the head. He could be making the whole thing up.”</p>
+
+<p>Alhaji Attahiru was offended. “Look, Alhaji Kura. I did not come here for you to insult me or my son. I am just telling you about the danger that your daughter is in.”</p>
+
+<p>“What danger?” Alhaji Kura asked. “Look, Alhaji Kabiru might just be bluffing. It's what he does. He didn’t do anything.”</p>
+
+<p>“Alhaji Kura. My son is lying in the hospital right now, barely escaped death. But all he cared about was Nana. I could see that he was struggling with the explanation. He is sick. I am not denying that. But there is something wrong. Something really scared my son, and he is trying to warn your daughter. Come on, Alhaji Kura. Why are you like this? You cannot be this naïve. My son almost died trying to warn Nana. If not for that wonderful boy, Munir. I don’t know what would have happened to him.”</p>
+
+<p>“Oh, Munir?” Alhaji Kura said. “Now it all makes sense. That gold-digging boy has now gone through Zakari and has pushed all of you to come here to influence me, right?”</p>
+
+<p>“My brother is not a gold-digger!” Lawal snapped, and he got Alhaji Kura’s attention.</p>
+
+<p>“What? Who is this?” Alhaji Kura asked.</p>
+
+<p>“This is Munir’s brother,” Nura said.</p>
+
+<p>“Oh. I see. Ok, so what do you want?”</p>
+
+<p>“I don’t want anything from you, Alhaji,” Lawal said. “Like they said. We are here to inform you of what is happening to your daughter. As for my brother, let me tell you something, Alhaji Kura. My brother might be poor and young and naïve. But he has the most morally upright character you can ever find in a person. I myself have been jealous of him for the longest time because of how honest, kind, and wonderful he is. Nothing can corrupt my brother, especially not money.”</p>
+
+<p>“Yeah, but I gave him money, and he accepted.” Alhaji Kura interjected sarcastically.</p>
+
+<p>“But Baba, that money was for the Islamiyah, and you know it. I was the one that brought him here. Why do you keep saying that?” Nura defended Munir. “Munir did not take that money for himself. I believe he had since submitted it to the Islamiyah.</p>
+
+<p>Alhaji Kura was embarrassed. He didn’t want to admit it, but his dislike for Munir had clouded his judgment to the extent that he just couldn’t see the truth.</p>
+
+<p>“Alhaji.” Lawal said to Alhaji Kura. “Munir will never consume that money. Do you know why? He was so concerned about the Islamiyah that he went all the way to Saudi Arabia to solicit funds to save the school. We sold the school behind his back, and he was heartbroken when he came back. Yet, he still handed over the check of Five Hundred Thousand Naira donation that he got from Saudi. He could have kept that money for himself, and we would never know. After all, he needed money at that time. But he handed it over because he didn’t want to consume our inheritance unlawfully. He will never take or keep what is not his. He is just like our father, honest to a fault and kind to everyone. I am sure that if you call the Islamiyah to confirm if he gave them the money, they would say yes. He did not keep that money for himself, and it is so unfair that you are doing this just because he is in love with your daughter. If you do not want him to marry your daughter because he is financially her inferior, I understand. But know this, he only has good intentions for her, and if you do not want him as a son-in-law, just tell him no. But do not destroy his reputation. It is not fair. You will stand in front of Allah on Judgment Day and account for it.</p>
+
+<p>Alhaji Kura was quiet. He was so ashamed of himself and embarrassed that he couldn’t look any of them in the eye. Just at that moment, his phone started to ring. He picked it up, and it was Nana.</p>
+
+<p>“Nana, what’s wrong?” Alhaji Kura seemed disturbed.</p>
+
+<p>“Baba…Baba…” Nana’s voice was shaking on the other side of the phone. She seemed to be in some kind of distress.</p>
+
+<p>“Is something wrong? What happened?” Alhaji Kura almost screamed.</p>
+
+<p>“I was on my way home from Hajiya Safiya’s house, and a car blocked mine. Five men with guns came out from their car, asked me to come out of mine, and follow them. But I refused, knowing that it never ends well for women that get kidnapped. So, I reversed and chased them with my car, hitting one of them. The rest ran away… Baba help me!” She kept mincing her words.</p>
+
+<p>“Where are you? Nana! Where are you?” Alhaji Kura was visibly shaking. So, Alhaji Attahiru took the phone from his hand,</p>
+
+<p>“Hello, Nana Aisha. Are you ok?” He asked her in a calmer voice. She told him again, the calm in his voice seemed to help. “Do you know where you are right now?”</p>
+
+<p>“Somewhere around Kofar Mata area.” She said, unsure of her surroundings. So, he used the Google maps on the phone to pinpoint her exact location.</p>
+
+<p>“Ok. I know where you are, and we are coming right away. But are you safe? Are there people with you?” He asked.</p>
+
+<p>“She said yes that a crowd had already gathered, and they are keeping her safe. The crowd tied up the person who she hit, and they are waiting for the police to arrive.</p>
+
+<p>“OK. We are on our way soon. Are you sure you are alright, Nana?”</p>
+
+<p>“Yes. I will be fine, uncle.” She said in a much calmer voice now. So, he looked at Nura without hanging up, he told him to call the Inspector general of police and tell him to send his best men to that location and keep her safe, making sure that Nana Aisha could hear him to reassure her. Nura nodded and started making the call. Then Alhaji Attahiru turned and looked at Alhaji Kura, who seemed to be frozen in fear, and then gave him a nod of understanding and assurance. Then they all went into their cars and drove toward Kofar Mata with Alhaji Attahiru still talking with Nana on the phone, so she doesn’t feel alone.</p>
+
+<p>**************************************</p>
+
+
+<p>The man was arrested and taken to the hospital to be treated. Then he was interrogated, and he confessed that it was Alhaji Kabir that hired him and four others, whom he named, and paid $20,000 each for the sole purpose of kidnapping and raping Nana Aisha, to destroy her completely so that now one will marry her after that. If he couldn’t have her, then no one else would. 
+To say that Alhaji Kura’s heart was broken is an understatement. Even though he didn’t particularly trust Alhaji Kabir, he still didn’t expect him to be this evil. Alhamdulillah that his daughter is not trapped in marriage to this monster. Who knows what she would have had to face? </p>
+
+<p>“Alhaji Kabir, please let me deal with that man!? Alhaji Attahiru said. He was so disgusted at what Alhaji Kabir did that he wanted to deal harshly with him.</p>
+
+<p>“No, my brother. Thank you for your concern. But I think it is better to let the police handle this. Because if we tried to do it ourselves, it will lead to our self-destruction.” Alhaji Attahiru agreed.</p>
+
+<p>*************************************</p>
+
+<p>Alhaji Kabiru quickly boarded his private jet at Aminu Kano International Airport. He found out that his plans had failed, and he knew Alhaji Kura would come after him. Everything had been carefully planned. First, a staged accident to kill that annoying Zakari, to silence him and tie up loose ends, then to kidnap Nana Aisha and destroy her completely, and by extension, destroy her father and his business rival as a punishment. Afterward, he was going to hire assassins to kill those stupid boys he had hired to kidnap Nana Aisha to silence them as well. But that was not all; he was also going to use the media to his advantage to spread the word about Nana Aisha being a whore who got what she deserved. It was a perfect plan, but he hadn’t anticipated Zakari surviving the accident, or Nana Aisha being so brave as to attack the men he had hired.</p>
+
+<p>When they surrounded her with their guns and ordered her to come out of the car and follow them, instead of her being a good girl and following orders, she surprised them by suddenly reversing and then driving toward them very fast. The cowards got scared, even though they were holding loaded guns, and started to run for their lives. She still managed to run over one before the rest got into their car and drove away. To make matters worse, the guy who was run over survived, and now he was in custody, confessing, he imagined. That's why he had to leave the country as fast as possible.</p>
+
+<p>Everything seemed alright as he put on his seatbelt, and the beautiful, young stewardess asked him what he wanted to drink. He smiled and said zobo. But as the plane taxied around the airport and just as it was about to lift off, large airport cars blocked its way, and then police cars came out of nowhere and surrounded it.</p>
+
+<p>“Alhaji Kabir, come out with your hands in the air. You are under arrest!” A voice announced on a loudspeaker. He knew it was over for him.</p>
+
+<p><strong><em>END OF CHAPTER SEVENTEEN</em><strong></p>`
+            },
+{
+    number: "Chapter Eighteen",
+    title: "Happy Endings",
+    subtitle: "All's well that ends well.",
+    excerpt: "Munir was having a quiet afternoon in his apartment. It was the Day of Maulud, and the Islamiyah had a...",
+    content: `<img src="https://cdn.pixabay.com/photo/2025/05/09/15/06/fluffy-bird-string-9589605_1280.jpg" alt="Flowers" style="width:100%; max-width:600px; margin:0 auto 2rem auto; display:block; border-radius:8px;">
+
+<p>Munir was having a quiet afternoon in his apartment. It was the Day of Maulud, and the Islamiyah had a two-day break, so he stayed at home to do some cleaning and rest. It had been two weeks since the incident with the kidnappers, and everything seemed to be back to normal. The criminals, including Alhaji Kabir, were arrested and prosecuted. Alhaji Kura and Alhaji Attahiru used their influence to ensure that Alhaji Kabiru faced the full force of the law and couldn't use his wealth and connections to escape justice. Most importantly, Alhaji Kura apologized to Munir for everything he had done to him and allowed Nana Aisha to interact with him again. However, things were awkward between them.</p>
+
+<p>Nura went and spoke with the President of the Islamiyah and got him to rehire Munir. Munir accepted, not just because he needed the job but because the Islamiyah meant the world to him. It was the legacy of Sheik Abdullahi, and Munir had promised him that he would care for it. But Munir had learned his lesson and was a lot less naïve this time. He understood his place in this world and knew how fast things could change, especially if you were poor. He didn't consider himself unfortunate. No, far from that. In fact, he was grateful to be blessed with faith, a good heart, and contentment with the little things. However, he was also aware that there was a class system in society that should never cross boundaries, and he was in the lower class. So, he decided to do what was best for him and stay in his lane.</p>
+
+<p>Even though Alhaji Kura had permitted him to get back with Nana Aisha, he was cautious and reluctant to have even the simplest interactions with her. Instead, he focused on taking care of himself and his mental health. He still loved her and was hurt and heartbroken about the terrible things that had happened to her. When he heard that she was safe, he prostrated towards the Qiblah and thanked Allah for saving her. He was beyond grateful and overjoyed. He went to see her at the hospital and stayed in the lobby until Alhaji Kura came out, saw him, and apologized to him. He was allowed to see Nana then, and after ensuring that she was OK, he left and never went to see her again. They spoke on the phone a few awkward times, but that was it.</p>
+
+<p>In the meantime, he had been looking for an apartment in a cheaper part of Kano. Not because he couldn't afford his current one, but after what happened, he decided to play it safe and get a cheaper place to save for rainy days. It might be a bit far from work and not as comfortable, but it would still be a home.</p>
+
+<p>A knock on his door brought him out of his daydream. He opened the door, and Alhaji Kura was standing there.</p>
+
+<p>"Alhaji!" He said, surprised.</p>
+
+<p>"Salaamu Alaikum, Munir," Alhaji Kura said, calmly but respectfully. He was with Nura and Lawal. "Can we come in?"</p>
+
+<p>"Of course, Alhaji. You are welcome." Alhaji Kura and his companions walked into the apartment and sat on one of the chairs. "Can I get you anything? Water, soft drinks…?"</p>
+
+<p>"No, thank you, my son. I just want us to talk." Munir was surprised at the way Alhaji Kura referred to him but still sat down to hear him out.</p>
+
+<p>"Munir, I came to apologize to you for the way I have treated you in the past. I was wrong about you. I thought you were a gold digger who wanted to take advantage of my vulnerable daughter to get to me, but I was so wrong. In the past year, I have watched my daughter transform from a spoilt brat to a devout Muslim woman who genuinely cares about others. I have also seen other positive improvements in her, like the fact that she has agreed to go back to school and is currently doing well, with her grades back up. You have been such a positive influence on her.</p>
+
+<p>You see, my son, she wasn't always bad. She used to be such a good girl, but along the way, she got involved with bad company, and they derailed her from the right path. I have only myself to blame as I wasn't a very attentive parent. And by the time I realized my mistake, she was too far gone. I thought I lost her, but with your guidance, she has come back better than ever.</p>
+
+<p>You fixed everything about her that was damaged. I have never seen her as passionate about anything as she is about school and charity. It is admirable how much of a positive influence you have had on her.</p>
+
+<p>I have heard of all you have been doing, all the charity work, and the community outreach. You have done, in a year, more than I have in my whole life. You have earned my respect and admiration.</p>
+
+<p>When you came for a donation for the Islamiyah, I had no idea how dire the situation was. Unfortunately, it was too late by the time I found out. I know your father and how much this school meant to him. And I realized that it meant that much to you. I wanted to reach out to you, but I was ashamed of how I treated you. I heard what you did for Zakari and how you helped him turn his life around instead of taking him as an enemy. You even repaired his relationship with his parents. Then your brother told me of how you handed over the donation you got from Saudi to him, even though you were broke and desperate. You were more concerned with your integrity and Akhirah than your comfort. That makes you a trustworthy and respectable person. That is what gave me the courage to come here today.</p>
+
+<p>I am sorry that I never gave you a chance and even judged you without taking the time to know you. Truly, I am, and if you want to marry my daughter, then I give you my blessing. I can assure you that she wants no one else but you. I trust you, and I want you to continue to guide her. Please, accept my offer. I am at your mercy."</p>
+
+<p>"Haba Alhaji. Of course, I want to marry Nana-Aisha. I love her, and I want her to be my wife. She loves me, also but we couldn't marry without your permission," Munir said, shyly.</p>
+
+<p>"You have it," Alhaji Kura replied.</p>
+
+<p>"Thank you, Alhaji," he said and knelt down as a sign of respect. Alhaji Kura handed him the envelope he was holding. Munir had a puzzled look on his face. He shrank back with the previous memory of the hurt he had to endure from accepting a gift from Alhaji Kura.</p>
+
+<p>Alhaji Kura noticed. "It's ok, my son. This is my wedding gift to you."</p>
+
+<p>"Alhaji, you don't have to do that."</p>
+
+<p>"I know, and I want to. Please accept it. There are no strings attached, and Nura and Lawal are witnesses to me giving this to you from the bottom of my heart."</p>
+
+<p>"Alhaji, I can't…"</p>
+
+<p>"Please, Munir, it's a wedding gift to you from me. I am allowed to give you a wedding gift, am I not?"</p>
+
+<p>"Yes, Alhaji. Thank you." He slowly accepted it.</p>
+
+<p>"Open it, please," Nura said, and Lawal nodded and smiled to assure him. Munir opened the envelope and pulled out some papers. It had the names of Al-Noor Islamiyah and Model Islamic College. But he didn't understand what it all meant. Alhaji Kura explained, "I realized that what you really want to do is help people through charity and free education, just like your father. But the problem is, if you run the Islamiyah that way, it will go bankrupt, and you will have to close it down in the end. That is why your brothers sold it. You need a constant source of income to keep it running. So, I bought the whole Model Islamic College chain for you. That way, you can run the whole chain as a business and use part of the profit you make to run Madarasatul Noor as a charity."</p>
+
+<p>Munir almost had a heart attack. His mind was numb, and he was having a hard time fathoming what had just happened. He tried to say something, but nothing came out. He was just staring at Alhaji Kura and the other men and was sweating.</p>
+
+<p>Alhaji Kura laughed. "You are welcome, my son. When you recover your speech, come to the mansion, and join us for dinner. My wife wants to throw a small dinner party for you and Nana Aisha. Family only. See you at eight, son." Alhaji Kura extended his hand to Munir. They shook, and Nura and Lawal took turns hugging and congratulating him. Then they left while still laughing, and Munir was still speechless.</p>
+
+<p>****************************************</p>
+
+<p>Munir arrived at the evening party with Lawal and two of their brothers. Lawal had gone to Munir's house earlier to ensure his attendance, lending him his best clothes – his wedding attire to appear presentable for the engagement. Hajiya Babba sent him a lovely bottle of perfume with her congratulations.</p>
+
+<p>Everyone welcomed them warmly, including the whole Kura family and some extended relatives. Munir initially felt self-conscious but soon felt at ease, as everyone was accommodating. Alhaji Kura gave them his blessing.</p>
+
+<p>After the party, Munir met with Nana Aisha, and they discussed having the wedding as soon as possible. They both agreed on a low-key ceremony to avoid unnecessary attention, particularly after the recent media circus Nana Aisha endured.</p>
+
+<p>The wedding took place two weeks later, with only family and close friends in attendance. The men held the wedding at the mosque, while the women celebrated at home. A Walima followed at the Kura residence. Despite careful planning and collecting everyone's phones during the event, it still got leaked to the public. The media reported it with a catchy headline: "Alhaji Kura Finally Marries Off His Celebrity Daughter."</p>
+
+<p>Despite Munir's protests, they moved into the duplex provided by Alhaji Kura to start their life together. It was tastefully furnished and located near Islamiyah. Alhaji Kura also gifted them brand-new cars.</p>
+
+<p>Zakari couldn't attend the wedding due to his stay in a rehabilitation center but sent his prayers. Alhaji Attahiru remembered the day he dropped Zakari off at the center in Ghana and Zakari confided about the cement truck during the accident. Alhaji Attahiru felt overwhelmed.</p>
+
+<p>"Why didn't you tell me?" he almost yelled.</p>
+
+<p>"This is why, Father," Zakari replied. "I was afraid of how you would react. I worried that you might do something to Alhaji Kabir that would land you in jail. I love you, and I don't want to lose you. Besides, he is already paying for what he did. As for me, I finally see the destruction my habits were causing, which is why I need to do this."</p>
+
+<p>Alhaji Attahiru's eyes welled with tears. He was immensely proud of his son.</p>
+
+<p>*************************************</p>
+
+<p>Three years later, they attended the ribbon-cutting ceremony of 'The White Swan,' a free clinic constructed and inaugurated by Alhaji Attahiru. The clinic, large and well-funded, aimed to provide affordable, and sometimes free, health services to Kano's poor, inspired by his son's incident and Munir's generosity.</p>
+
+<p>Munir, cradling his one-year-old daughter, and Nana Aisha were present, alongside Alhaji Kura and various dignitaries who pledged varying sums to support the clinic. Munir committed 2% of his business earnings each month to sustain the clinic. Alhaji Kura made an undisclosed financial pledge, promising a promising future for the clinic.</p>
+
+<p>Zakari, now out of the rehabilitation center and pursuing a medical degree at the university, attended the event. He planned to work part-time at the clinic under supervision. He looked healthier and happier, genuinely happy for Munir and Nana Aisha.</p>
+
+<p>Munir excelled in managing the Islamic school, which had become more popular than ever. He fulfilled his promise to the late sheik by keeping the Islamiyah running and accessible to the poor.</p>
+
+<p>Nana Aisha graduated and worked full-time at the Islamiyah as an Arabic language teacher. She hosted a weekly Islamic television show discussing family matters and education while including a cooking segment and children's Islamic cartoons. The program served as an advertisement for the Islamiyah, which sponsored it. In the end, with faith, patience, and love, everything worked out well for both Munir and Nana Aisha.</p>
+
+<p><strong>The End</strong></p>`
             }
         ];
 
